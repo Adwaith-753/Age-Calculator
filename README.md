@@ -11,9 +11,9 @@ A simple and interactive Age Calculator built with HTML, CSS, and JavaScript tha
 - Works on desktop and mobile devices.
 - Easy-to-use input with a date picker.
 
-## How to View
+## 🌟 Live Demo
 
-You can view the live portfolio by visiting this link:  
+You can view the live demo here:  
 [https://adwaith-753.github.io/Age-Calculator/](https://adwaith-753.github.io/Age-Calculator/)
 
 ## 🛠️ Technologies Used
